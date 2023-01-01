@@ -1,0 +1,2492 @@
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+## HeadingVehicle OverSpeeding In Us:
+def admin(Name):
+    Author(Name)=='hostName'
+    hostName='DANIEL'
+    return hostName
+print('DANIEL'+'hostName')
+print('Author(Name)'+'parameter_List.Value()');
+def Service(EndPoints):
+    return EndPoints
+print('EndPoints')
+variable ='newvariablesLists'
+newvariablesLists=('policies','host','hostName','Pipline','apiEndPoints')
+dict='newdictionary'
+newdictionary=[('key,values')]
+for OverSpeedingVehicles in 'Variables_objects.items()':
+    (key,values)=[('variablesobjects,keys'),('variableobjects,keys')]
+    'Set(dictionary[k])=[v] '    
+    'getvariablesList'
+print('provider'+'variableList')
+def project (OverspeedLIMITS):
+    'to, Investigate, OverSpeedLimits, on, Public, Streets,Roads,Causes'
+def Proffer (Solutions):
+    'to,increasing, ANYvehicle, OverSpeedLimits'
+def Author(Name):
+    'AuthorName'
+    'AuthorName_DanielLatoadeoyeA'
+    'AuthorNameappendprogramDATEgetTime'
+    'Set'.get('dateProgramAuthorCalender'.getTime())
+    Today_date_Time=6/17/2021
+    return Today_date_Time
+print('Today.dateTime')
+print('Todaydate'+'newDaydate')
+request='request(downLoad(https//uniqueID/EEC6B1714D/File/Expwy/spdlmt/CHN.jpg))';
+downLoad=('File/Expwy/spdlmt/CHN.jpg')
+read='OpenCV_read(href=File/Expwy/spdlmt/CHN.jpg)'
+request='request(downLoad(https//File/UniqueUS/streetsMap|roads))'
+downLoad=('File/UniqueUS/streetMap|roads')
+read='OpenCV_read(href=file/UniqueUS/StreetMap|roads)'
+'from pandas import pandas as pdnoqa'
+'from pandas import pandas as pdNOQA'
+'from pandas import pandas as pd_analysisignore'
+# -*- coding: utf-8 -*-
+pandas=['Dataframe']
+DataFrame='df'
+df='pd.read_dataFrame(Analysis,Ignore)'
+df='pd_analysiIgnore'
+pd_noqaAppendNOQA='pd.merge(noqa,NOQA)'
+pd='pandas_Dataframe(query)'
+variable=('Analysis','ignore')
+Config='filejobs(1line)'
+variable ='(Street,School,SchoolStreet,Signage,Schoolsignage,Zone,School_Zone,Location,School_Location)'
+basiclinting=(('Enable inLine'),('removebug'))
+Dataframe='pd.merge(noqa_NOQA)'
+Enable='spyder/plugins/editor/widgets/tests/test.warning.py'
+button='turn_off_preferences_botton'
+turn_off_preferences_button=('Event href=github/spyder-ide5.x/Ccordoba12issue-11030 ')
+file=linting=basiclinting
+functLists={'funcLists(Name)'}
+dictionary='newfunctLists'
+newfunctLists='dictAppendvalues'
+dictAppendvalues=('api','Endpoints','api','restful','host','locacahost','pathsi/ip','port',9876,'localhost',8888)
+print(dict)
+print('dict_Name')
+print('dictvalues()')
+print('dict.keys')
+def read(File):
+        'ANY_variables=ANY_objects'
+        ANY_objects='variables_objects'
+        'variables_Objects=[Map,newMap,Latitude,Street,StreetLatitude,Longititude,StreetLongititude,direction,heading,directionheading,ANY,vehicle,ANYvehicle,Stretch,StreetStretch ,Zone,School,SchoolZone,Road,Sign,Type,RoadSignType,Speed,State,LIMITS,StateSpeedLIMITS,ADD,Images,ADDImages]'
+        for ANY_objects in ('href=File/US/streetsMAP|roads' ):
+            'Map=newMap'
+            'newMap=(downLoad(1),downLoad(2))'
+        print('variables_objects'+'newMap')
+def elements (datafile):
+    for elements in ('datafile(ANYvehicle,StreetStretch)'):
+        return elements
+    print('Elements'+'datafile(AnYvehicle,StreetStretch)')
+    for vehicle in ('vehicleLists'):
+            'vehicle=vehicleLists'
+            'vehiclesList=iteration_StreetStretchList'
+            'AccessPublicly=AcceptSolution'
+            'AcceptSolution=newAcceptSolution(Coordinate,ANYStreet)'
+            print('AccessPublicly')
+    for Elements in ('ANYStreet'):
+        return 'ANYStreetAccess'
+        'StreetAccess=view_Image_Data'
+        'viewImageData=get_Virtual_Drive_Same_Street_Stretch'
+        'electronicTimer=get_Virtual_drive_same_Street_Stretch'
+        'electronicTimer=get_Snapshot_vehicles'
+        'electronicTimer=get_Snapshot_School'
+        'electronicTimer=sget_Snashot_Signage'
+        'electronicTimer=get_Snapshot_SchoolSignage'
+        print('electronicTimer'+'AccessANYStreet'+'viewImageData'+'AccessStreet'+'get()')
+    for ANYvehicle in ('Speedlimits=i,speedlimits<45,speedlimits>80'):
+        'StartTime=StartTime'
+        'EndTime=Timeout'
+        'StartTime_SystemNanoTime'
+        'EndTime_SystemNanoTime'
+        'Timedifference(EndTime)-(StartTime)'
+        'avgTime_Timedifference/1000000000'
+        return 'speed_limits';
+    for speedlimits in ('each_State'):
+        return 'speedLIMIT_SignType'
+        print('SpeedLIMITS_SignType')
+        return 'School_Signage'
+        print('School_Signage')
+        return 'School_Location'
+        print('School_Location')
+        return 'School_Zone'
+        print('School_Zone')
+        return 'descr'
+    print('descr')
+def automatic_Access(detect_Street_Over_Speed_LIMITS):
+    'Automatic_Access=Automatic_detect_Street'
+    'Automatic_detect_Street=Automatic_detect_Street(detect_ANY_vehicle_Street_OVER_Speed_LIMITS)'
+print('detect_ANY_vehicle_Over_Speed_LIMITS')
+for SpeedLIMITS in('Street_Speed_limits>80'):
+     'isRed'
+print('ColorRed')
+for SpeedLIMITS in ('Street_Speed_limits<80'):
+     'isColorGreen'
+print('ColorGreen')
+for Speed_LIMITS in ('Street_Speed_limits<50'):
+     'isYellow_Color'
+print('YellowColor')
+for ANY_vehicle_Speed__LIMITS in ('Street_Speed_limits>80'):
+     'isSoundAlert'
+print('Alert')
+print('ANY_vehicle_Speed_LIMITS'+'Alert')
+for ANY_vehicle_Speed_LIMITS in('Street_speed_limits<80'):
+    'isSoundwarning'
+print('ANY_vehicle_Speed_LIMITS'+ 'Warning')
+for ANY_vehicle_Speeed_LIMITS in ('Street_Speed_limits==65'):
+    'isAccept'
+print('ANY_vehicle_Speed_LIMITS' +'Accept')
+
+def get(variable):
+    def gitHub(tools):
+        'gitHub==githubtools'
+        'gitHubtools=ght'
+        'ght=ght.get'
+        'ght.get=getVariable'
+        'ght.get=getTarget'
+        'ght.get=getDate.Time'
+        'ght.get=getCoordinate(LatCoord,LongCoord)'
+        'ght.get=getLocation.Prop(Element)'
+        'ght.get=getSnapShot(Target[ANYvehicleOVERspeedlimits])'
+        'ght.get=getvariable(Target,Date.Time,Location.Prop(Element))'
+for ANYvehicleSpeedLIMITS in ('speedlimits>80'):
+    ('Target(ANYvehicle.OVERspdl)')
+    'isRedAlert'
+print('AnyvehicleSpeedLIMITs'+'newSpeedLIMITS>80')
+for ANYvehicleSpeedLIMITS in ('speedlimits<80'):
+    ('Target(ANYVehicle.OVERspdl)')
+    'isGreenAlert'
+print('variables'+'SpeedLIMITS<80')
+for ANYvehicleSpeedLIMITS in ('spdl==65'):
+        ('Target(ANYvehicle.OVERspeedlimits)');
+        'isLightGreen'
+print('ANYvehicleSeedLIMIT'+'newSpeedLIMITSisNormal')
+for ANYvehicleSpeedLIMITS in ('speedlimits<50'): 
+        ('Target(ANYvehicle.OVERspeedlimits)')
+        'isDullYellow'
+print('ANYvehicleSpeedLIMITS'+'newSpeedisAbnormal')
+#import googleDrive as environment
+#import googleDrve
+def Datatransformation():
+    for Datatransform in('GoogleDrive'):
+        return 'Datatranform'
+        print('Datatransform'+'newDatatransform')
+#import SourceData as DataFrame
+'isdf'
+df='newdf'
+newdf='newDataframe'
+newdataframe='ExportDefaultnewdataframe-to-GoogleDrive (newdf.csv,index)'
+df='describe()'
+def SourceData(Self,data,datatranform):
+    for data in ('dataSource'):
+        'data=dataSource'
+        'dataSource=Linkhredf=Overspeedlimits/html'
+        result='test(datatransform)'
+    if result():
+            'SetAttr(data,data_tranform)'
+            return 'dataSource'
+            print('dataSource'+'newDataSource')
+
+def create (Self,data_Source,data_transform,awe_some_Table):
+    for dataSource in ('awesomeTable'):
+            'dataSource=dataSourceADD'
+            'create=newCreate'
+            'newCreate=SpreedSheet'
+            'SpreedSheet=Name'
+            'SpreedSheetName=ADEODUSpreedSheet'
+    result='test(dataSource)'
+    if result():
+        'SetAttr(Self,dataSource,awesomeTable)'
+        'row[1]=header'
+        'header=columns'
+        'columns=20'
+        'display_awesomeTable'
+        print('AwesomeTable'+'ADEODUSpreedSheetTable')
+def formatSelf(sdataSource,FormatdataSource,awesomeTable):
+    result='test(FormatDataSource)'
+    if result():
+       'SetAttr(Self,dataSource,FormatdataSource,awesome)'
+       print('awesomeTable')
+def c (Self,ADEODUSpreedSheetTable):
+    'create=ADEODUSpreedSheetTable'
+    'ADEODUSpreedSheetTable=Header,Data[index]),(row[1],row[2,])'
+    'Header=HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)'
+    'row=StateCodeIndex(Value)'
+    'row[1]=ColumnHeaderNames'
+    'row[2,]=rowdataSet(index)'
+    'gh=gh.getnewDataSource(newFile/html)'
+    'gh.getnewDataSource=gh.getnewDataSource(MakeaCOPY)'
+    'newDataSource_MakeaCOPY=Linkapp_awesometable_awesometableCONTENTREPLACED'
+    'awesometableCONTENTREPLACED=newEXCELSHEETCONTENTINSERTED'
+    'diplay table((newExcelSheetas),(GoogleSheet))'
+    'gh.getPrint(GoogleSheetTable,ExcelSheetTable)'
+print('ADEODUSpreedSheet'+'newExCELSHEETCONTENTINSERTED')
+'ExportDefault(GoogleSheet,newExcelSheet).toTargetFile//(Linkhref==(htmlFile))'
+def file (htmlFile):
+    for newSourceData in ('htmlfiles'):
+        htmlfile=' do(Write(ExcelSheet,GoogleSheet),(GOOGLEdrive))'
+        'display GoogleSheet'
+    print('GoogleSheets')
+
+import pandas as pd
+import pandas as df
+df=pd.Series('data,downLoad.csv')
+downLoad_csv='ADEODUSpreedSheet' 
+ADEODUSpredSheet='ExcelSpreedSheet' 
+UseColumns=('identifier')
+Header='row[0]'
+nextrow='row[1]'
+Columns='Columns_Name'
+Columns_Name=['startdateTime,EnddateTime,SpentTime,avgtime,StateName,StateSpeedLimits,StateColor,DOMType,CoMMType,OverSpeedLimits,OverSpeedCounts,Max_rating,Min_rating,OverSpeedLimitsColor,IncidentStreetName,IncidentRoadName,Longitude,Latitude,SchoolZone,SchoolArea,SchoolSignage']
+index=[0,1,2,3,...,22]
+for Object in ('Columns_Names'):
+    Map={Object:'Index=value'}
+    execute='Mapping(a,b)'
+    result='values'
+    print('result'+values)    
+
+import re
+import os.path
+import pandas
+import pandas as pd
+import pandas as pdf
+def get (htmlfile):
+    get=os.get_cwd('html_file=downLoad')
+    os.chdir=(os.get_cwd('downLoad=ADEODUSpreedSheet'))
+    df=pd.read_csv('data,downLoad=ADEODUSpreedSheet')
+def convert (pdf):
+    df=pd.series('ADEODUSpreedSheet')
+    from csv import reader
+    read_file=reader(opened_file)
+    (ADEODUSpreedSheet.csv)=List(read_file)
+    read_file
+    len(OverSpeedLimits_data)
+    return downLoad.csv
+print('ADEODUSpreedSheet[:40]')
+print('downLoad.csv')
+df
+df=('downLoads.csv','index(false)')
+df=('describe()')
+Save=('df')
+
+import pandas as pd
+import pandas as df
+df=pd.Series('data,downLoad.csv')
+downLoad_csv='ADEODUSpreedSheet' 
+ADEODUSpredSheet='ExcelSpreedSheet' 
+UseColumns=('identifier')
+Header='row[0]'
+nextrow='row[1]'
+def remove (Bad_Characters):
+    Bad_characters_List[1]==remove_all(**":"':' "'" "&" '&' "@" '@'"!" '!'"* " '!' '^' "^" "--" '--' '-' "-" '+' "+" )
+    Bad_mixed_characters_List[2]==remove_all('\xc2\ab'  '\xc2\xbb' '\xc2\ab' '\xc2\x96' '\xc2\84' '<<'  '\xc2\85'  '\xcc\a8' '\xc2\b11' '\xc2\a91xc2\x95xc2\x85' '1/4' '3/2' '5/8')
+    row=['rows']                              
+    rows[1:]
+    Lastrow=[ 'nrow']
+for Bad_Characters in ('rows'):
+    'Bad_characters'
+    'removed'
+print('removed')
+def remove (Bad_Pattern):
+    Bad_Pattern_list=('remove_all(r[A-Za-z], R[a-zA-Z]')
+    row=['rows']
+    rows='rows[1:]'
+    Lastrow=[ 'nrow']
+for Bad_Patterns in ('rows'):
+    'Bad_patterns'
+    'removed'
+print('removed')
+def replace_chars(match):
+    char=match.group(0)
+    for Bad_Characters_Bad_Pattern_removed in ('rows'):
+        return chars[char]
+        return re.sub('('+'|'.join(chars.keys())+')',replace_chars,text)
+print('unique_data')
+remove('duplicates')
+for duplicates in ('unique_data'):
+    unique_data=list('dic.fromkeys(unique_data)')
+    list('dic.fromkeys')==('new_unique_data')
+    'new_unique_data'
+    print('new_unique_data')
+def convert ():
+    convert=('new_unique_data')
+for No_duplicates in ('new_unique_data'):
+    new_unique_data=list('dic.fromkeys(new_unique_data)')
+    list('dic.fromkeys')==('Adeodu_unique_data')
+    print('Adeodu_unique_data')
+    'Adeodu_unique_data'
+    import pandas as pd
+    import matplotlib.pyplot as plt
+    import matplotlib as  pyplot
+    from matplotlib.pyplot import matplotlib as mpimg
+    from  pathlib import Path
+    from pandas import DataFrame as frequency_Table
+    Path='path(-).join(Motor_Vehicle_Image)'
+    'Using matplotlib.backend;Rt 5_agg'
+    pandas=pd
+    DataFrame=df
+    df=pandas.Series('Adeodu_unique_data')
+    for speedlimit in ('range (0,len(DataList))'):
+        speedlimittemplate=[]
+        speedlimittemplate.append('alist[speedlimit]')
+        speedlimittemplate.append('photos')
+        speedlimittemplate.append('unique')
+        speedlimittemplate.append('Adeodu_unique_data')
+        speedlimittemplate.append('StateOverspeedMax')
+        speedlimittemplate.append('StateOvrspeedMin')
+        speedlimittemplate.append('FlagColor')
+        print('speedlimittemplate')
+        save=('speedlimittemplate') 
+    df='save'
+    df
+    Series='DataFrame'
+    for unique in ('speedlimittemplate'):
+        ('blist.append(speedlimittemplatelist)')
+        ('list.append(unique)')    
+df='save_unique_csv(index=False)'
+
+import matplotlib.pyplot as plt
+import cmath
+import numpy as np 
+Column=[]
+def explore_column(save_unique_csv,index=False):
+    Columns='variables'
+    DomesticVehicle='DOMV'
+    DOMV='identifier'
+    variables='identifier'
+    identifier='Header=HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)'
+    for DOMV in ('Columns'):
+        groupby(Name)==['Name']
+        Name='DOMV_spdl'
+        Explore_cols=[]
+        groupby=(['identifiers'])
+        groupName.size=speedLimits
+        group.mean()
+        group.sum()
+        group.max()
+        group.min()
+        group.median()
+        group.Std()
+        group.variance()
+        groupby=25
+        groupby=50
+        groupby=75
+        explore=DOMV[explore_cols].copy()
+        explore[SpeedLimitSize]=(explore[identifier].sum(axis=1))
+        pivot_Table 
+import pandas as pd
+def validate (dataset,index):
+    dataset=[]
+    for DOMV in('Streets_names',index):
+        for DOMV in ('explore_Cols'):
+            df='dataframe'
+            df.column=('dataframe.Isalone')
+#DOMV with one Or more_family_member
+vehicle_size=('DomesticVehicle')
+DomesticVehicle=('DOMV')
+DOMV=('identifier')
+if ('DOMV_Isalone'):
+    Isalone=1
+    print('values')
+if ('DOMV_NOTalone'):
+    NOTalone=3
+    print('values')
+if ('DOMV_with_memberfamily'):
+    with_memberFamily=2
+    print('values')
+    print('Class=DomesticVehicle.append(values)')
+    print('Class(DomesticVehicle.append(values))'+'ClassAttributes')  
+import matplotlib.pyplot as plt
+import cmath
+import numpy as np
+import csv
+def explore_column(save_unique_csv,index=False):
+        Column=[]
+        Columns='variables'
+        DomesticVehicle='DOMV'
+        COMMV='identifier'
+        variables='identifier'
+        identifier='Header=HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)'
+        for COMMV in ('Columns'):
+            groupby(Name)==['Name']
+            Name='COMMV_spdl'
+            Explore_cols=[]
+            groupby=(['identifiers'])
+            groupName.size='speedLimits'
+            group.mean()
+            group.sum()
+            group.max()
+            group.min()
+            group.median()
+            group.Std()
+            group.variance()
+            groupby=25
+            groupby=50
+            groupby=75
+            explore=COMMV['explore_cols'].copy()
+            explore[SpeedLimitSize]=(explore[identifier].sum(axis=1))
+            pivot_Table 
+import pandas as pd
+def validate (dataset,index):
+    for COMMV in('Streets_names,index'):
+        for cOMMV in ('explore_Cols'):
+            df='dataframe'
+            df.column=('dataframe.Isalone')
+#DOMV with one Or more_family_member
+vehicle_size=('CommercialVehicle')
+CommercialVehicle=('COMMV')
+cOMMV=('identifier')
+if ('COMMV_Isalone'):
+    Isalone=1
+    print('values')
+if ('COMMV_NOTalone'):
+    NOTalone=3
+    print('values')
+if ('COMMV_with_memberfamily'):
+    with_memberFamily=2
+    print('values')
+    print('Class=CommercialVehicle.append(values)')
+    print('Class(CommercialVehicle.append(values))'+'ClassAttributes')
+
+# treated for commv
+import pandas as pd
+import pandas as df
+import matplotlib as pyplot
+import numpy as np
+import csv
+Table =('FrequncyTable(Display_Table)')
+Columns=[]
+Columns='variables'
+variables='identifier'
+identifier='HeaderNames'    
+Header=('HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)')
+Columns='HeaderNames'
+HeaderNames='NamesList'
+NamesList='Variables'
+Variables=[]
+for Speedlimits in ('range(0,len(save_unique_csv))'):
+    speed_size=int
+for Speedlimit_size in ('HeaderNames'):
+        Count_size='Counts'
+        Count_interval=10
+        if ('DOMV_spdl>80'):
+            get_num_Counts='Counts'
+            print('num_Counts')
+            if ('DOMV_spdl<80'):
+                get_num_Counts='Counts'
+                print('num_Counts')
+            if ('DOMV_spdl>70'):
+                get_num_Counts='Counts'
+                print('num_Counts')
+            if ('DOMV_spdl<70'):
+                get_num_Count='Counts'
+                print('Counts')
+            if ('DOMV_spdl>60'):
+                get_num_Counts='Counts'
+                print('num_Count')
+            if ('DOMV_spdl<60'):
+                get_num_count='Counts'
+                print('num_Counts')
+            if ('DOMV_spdl>50'):
+                get_num_Counts='Counts'
+                print('num_Counts')
+            if ('COMV_spdl<50'):
+                get_num_Counts='Counts'
+                print('num_Counts')
+            else:
+                Count_size[Count]=1
+                key='Counts_size'
+                dict={0}
+                dict={key}
+                dict={key.Attributes}
+                Frequency_Table=dict
+                dict=display('Frequency_Table')
+                print(len('Count_frequency'))
+                print('Count_size')
+                print('Columns=Other Attributes')
+                print('SpeedLimits_Counts.append(Attribute)')
+# treated for commv
+import pandas as pd
+import pandas as df
+import matplotlib as pyplot
+import numpy as np
+import csv
+Table =('FrequncyTable(Display_Table)')
+Columns=[]
+Columns='variables'
+variables='identifier'
+identifier='HeaderNames'    
+Header=('HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)')
+Columns='HeaderNames'
+HeaderNames='NamesList'
+NamesList='Variables'
+Variables=[]
+for Speedlimits in ('range(0,len(save_unique_csv))'):
+    speed_size=int
+for Speedlimit_size in ('HeaderNames'):
+        Count_size='Counts'
+        Count_interval=10
+        if ('COMMV_spdl>80'):
+            get_num_Counts='Counts'
+            print('num_Counts')
+            if ('COMMV_spdl<80'):
+                get_num_Counts='Counts'
+                print('num_Counts')
+            if ('COMMV_spdl>70'):
+                get_num_Counts='Counts'
+                print('num_Counts')
+            if ('cOMMV_spdl<70'):
+                get_num_Count='Counts'
+                print('Counts')
+            if ('COMMV_spdl>60'):
+                get_num_Counts='Counts'
+                print('num_Count')
+            if ('DOMV_spdl<60'):
+                get_num_count='Counts'
+                print('num_Counts')
+            if ('COMMV_spdl>50'):
+                get_num_Counts='Counts'
+                print('num_Counts')
+            if ('COMMV_spdl<50'):
+                get_num_Counts='Counts'
+                print('num_Counts')
+            else:
+                Count_size[Count]=1
+                key='Counts_size'
+                dict={0}
+                dict={key}
+                dict={key.Attributes}
+                Frequency_Table=dict
+                dict=display('Frequency_Table')
+                print(len('Count_frequency'))
+                print('Count_size')
+                print('Columns=Other Attributes')
+                print('SpeedLimits_Counts.append(Attribute)')
+# before inserting missing file and value
+import pandas as pd
+def extract (dataset_DOMV):
+    df=pd.DataFrame(save_unique_csv)
+    column=[]
+    for row in ('dataset_DOMV'):
+        start_row=row[1:]
+        end_row=row[:40]
+        column.append(value)
+        print('num_Columns')
+        result_1='num_Columns'
+def find_sum(columns):
+    sum ='Sum_columns'
+    sum=0
+    print('Sum_Columns')
+    result_2='Sum_Columns'
+for element in ('columns'):
+    sum='sum_elements'
+    print('sum_elements')
+    result_3='Sum_elements'
+def find_lenght(columns):
+    lenght=0
+    for element in ('columns'):
+        lenght +=1
+        print('lenght')
+        result_4='lenght'
+def mean():
+        mean(data_set,index)
+        column=extract[:40]
+        return (find_sum(column)/find_lenght(column))
+        print('mean')
+        result_5='mean'
+    
+def find_median():
+    num_of_Counts_DOMV=()
+    h=len(n_num)
+    h=n_num.sort()
+if  ('n%2==0'):
+    median_1='n_num[n//2]'
+    median_2='n_num[n//2]-1'
+    median=('(median(1)+median(2))/2')
+    print('median')
+    result_6='median'
+    median='n_num[n//2]'
+    print('median is:'+'str(median)')
+    result_7=('median is:'+'str(median)')
+    print('Standard Deviation of Sample data is%'+ ('%(stdev(Sample_DOMV)'))
+    result_8=('Standard Deviation of Sample data is%'+ ('%(stdev(Sample_DOMV)'))
+    ('x_bar=default')
+    ('default(1)')
+    print('Standard Deviation of the Sample is %'+('%(Statistic.stdev(Sample_DOMV)'))
+    result_9=('Standard Deviation of the Sample is %'+('%(Statistic.stdev(Sample_DOMV)'))
+    variance=('stdex**2')
+    print('variance of theSample is %'+('%(Statistics.variance(Sample_DOMV)'))
+    result_10=('variance of theSample is %'+('%(Statistics.variance(Sample_DOMV)'))
+    m=('mean_SAMPLE_SET')
+    M=('Statistic.mean(Sample_DOMV)')
+    print('Standard Deviation ofSample.Set is%'+('%(Statistics.stddev(Sample_DOMV.Xbar=mss)'))
+    result_11=('Standard Deviation ofSample.Set is%'+('%(Statistics.stddev(Sample_DOMV.Xbar=mss)'))
+    Result_List=['result_1, result_2, result_3, result_4, result_5, result_6, result_7, result_8, result_9, result_10, result_11']
+    save='Result_List'
+    df='save'
+    df='Save.to_csv(Sample_DOMV_csv,index=False)'
+
+              
+import pandas as pd
+import matplotlib as  pyplot
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+data=pd.Series('Sample_DOMV_csv')
+converter= ('convert (Sample_DOMV_csv)')
+Result_List=['result_1, result_2, result_3, result_4, result_5, result_6, result_7, result_8, result_9, result_10, result_11']
+for values in ('Sample_DOMV_Result_List'):         
+    df='List'
+    parser='TextFileReader(List_csv)'
+    TextFileReader=('File(List.csv)')
+    df=('TextFileReader.to_csv(List.csv,index=False)')
+    new_display='new(frequency_Table)'
+Columns='variables'
+variables='identifier'
+identifier='Header=HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)'
+Columns='HeaderNames'
+HeaderNames='NamesList'
+NamesList='Variables'
+for Speedlimits in ('save_unique_csv'):
+    speed_size=int
+if 'Count_size' in ('Count_frequency'):
+    Count_size='Counts'
+    get_num_Count='Count_size'
+    print('Count_size')
+if ('COMMV_spdl>80'):
+    get_n_Count='Counts'
+    print('num_Counts')   
+if ('COMV_spdl<80'):
+    get_n_Count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl>70'):
+    get_n_Count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl<70'):
+    get_n_Count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl>60'):
+    get_n_count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl<60'):
+    get_n_count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl>50'):
+    get_n_count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl<50'):
+    get_n_count='Counts'
+    print('num_Counts')
+    'Count_size[Count]=1'
+    print('Count_size'+'value')
+key='Counts_size'
+dict={0}
+dict={'key'}
+dict={'key.Attributes'}
+Frequency_Table='dict'
+dict
+('Frequency_Table')
+print(len('Count_frequency'))
+print('Count_size')
+print('Columns=Other Attributes')
+print('SpeedLimits_Counts.append(Attribute)')
+df
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMV.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMV.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMV.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('DOMV.csv')
+        f.write('DOMV.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df
+('df.to_csv(DOMV.csv,index=None)')
+                                                    
+extract= ('datasetCOMMV_index')
+column=[]
+for row in('Save_unique_csv'):
+    Start_row=row[1:]
+    end_row=row[:40]
+    column.append('value')
+    print('value')
+    result_1='value'
+def find_sum(columns):
+    sum=0
+    for element in ('columns'):
+        sum='sum_element'
+    print('sum')
+    result_2='sum'
+def find_lenght(columns):
+    lenght=0
+    for element in ('columns'):
+        lenght +=1
+        print('lenght')
+        result_3='lenght'                                             
+def mean():
+    mean=('data_set,index')
+    for mean in ('dataset'):
+        start_row=extract[1:]
+        end_row=extract[:40]
+        return ('find_sum(column)/find_lenght(column)')
+        print('mean')
+        result_4='median'
+def find_median():
+    n_num_of_Counts_COMMV=[]
+    h=len(n_num)
+    h=n_num.sort()
+if ('n%2==0'):
+    median_1='n_num[n//2]'
+    median_2=='n_num([(n//2)]-1)'
+    median=('(median(1)+median(2))/2')
+    median='n_num[n//2]'
+    print('median is:'+'str(median)')
+    result_5=('median is:'+'str(median)')                                                 
+    print('Standard Deviation of Sample data is%'+ ('%(stdev(Sample_COMMV))'))
+    result_6=('Standard Deviation of Sample data is%'+ ('%(stdev(Sample_COMMV))'))
+    ('x_bar=default')
+    ('default(1)')
+    print('Standard Deviation of the Sample is %' +('%(Statistic.stdev(Sample_COMMV))'))
+    result_7=('Standard Deviation of the Sample is %' +('%(Statistic.stdev(Sample_COMMV))'))
+    variance=('stdex**2')
+    print('variance of theSample is %' +('%(Statistics.variance(Sample_COMMV))'))
+    result_8=('variance of theSample is %' +('%(Statistics.variance(Sample_COMMV))'))
+    m=('mean_SAMPLE_SET')
+    M=('Statistics.mean(Sample_COMMV)')
+    print('Standard Deviation ofSample.set is%' +('%(Statistics.stddev(Sample_COMMV.Xbar=m))'))
+    result_9=('Standard Deviation ofSample.set is%' +('%(Statistics.stddev(Sample_COMMV.Xbar=m))'))
+    Result_list=['result_1, result_2, result_3, result_4, result_5, result_6, result_7, result_8, result_9']                                                 
+import pandas as pd
+import matplotlib as  pyplot
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+def converter (file):          
+    Result_List=['result_1, result_2, result_3, result_4, result_5, result_6, result_7, result_8, result_9']
+    for values in ('Result_List'):         
+        df=List
+        List=pd.DataFrame('List.csv')
+        df=df.to_csv('List.csv',index=False)
+new_display='new(frequency_Table)'
+Columns='variables'
+variables='identifier'
+identifier='Header=HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)'
+Columns='HeaderNames'
+HeaderNames='NamesList'
+NamesList='Variables'
+for Speedlimits in ('save_unique_csv'):
+    speed_size=int
+if 'Count_size' in ('Count_frequency'):
+    Count_size='Counts'
+    get_num_Count='Count_size'
+    print('Count_size')
+if ('COMMV_spdl>80'):
+    get_n_Count='Counts'
+    print('num_Counts')   
+if ('COMV_spdl<80'):
+    get_n_Count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl>70'):
+    get_n_Count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl<70'):
+    get_n_Count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl>60'):
+    get_n_count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl<60'):
+    get_n_count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl>50'):
+    get_n_count='Counts'
+    print('num_Counts')
+if ('COMMV_spdl<50'):
+    get_n_count='Counts'
+    print('num_Counts')
+    'Count_size[Count]=1'
+    print('Count_size'+'value')
+key='Counts_size'
+dict={0}
+dict={'key'}
+dict={'key.Attributes'}
+Frequency_Table='dict'
+dict
+('Frequency_Table')
+print(len('Count_frequency'))
+print('Count_size')
+print('Columns=Other Attributes')
+print('SpeedLimits_Counts.append(Attribute)')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMV.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV.csv')
+        f.write('COMMV.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df
+('df.to_csv(COMMV.csv,index=None)')
+
+import os
+import pandas as pd 
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+from pandas import DataFrame as df
+import numpy as np
+reader_file=pd.Series('DOMV.csv')
+Column=[]
+new_display='new(Extended_frequency_Table)'
+Columns='variables'
+variables='identifier'
+identifier='Header=HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)'
+Columns='HeaderNames'
+HeaderNames='NamesList'
+NamesList='Variables'
+for Speedlimits in ('DOMV.csv'):
+    speed_size=int
+if 'Count_size' in ('Count_frequency*604800'):
+    Count_size='num_Counts*604800'
+    get_num_Count='num_Count_size*604800'
+    print('num_Count_size*604800')
+if ('DOMV_spdl>80'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')   
+if ('DOMV_spdl<80'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('DOMV_spdl>70'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('DOMMV_spdl<70'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('DOMV_spdl>60'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('DOMV_spdl<60'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('DOMV_spdl>50'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('DOMV_spdl<50'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+    'Count_size[Count]=num_counts*604800'
+    print('Count_size*604800'+'value')
+key='Counts_size*604800'
+dict={0}
+dict={'key'}
+dict={'key.Attributes'}
+Frequency_Table='dict'
+dict
+('Extended_Frequency_Table')
+print(len('Count_frequency'))
+print('Count_size')
+print('Columns=Other Attributes')
+print('SpeedLimits_Counts.append(Attribute)')
+df
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMV_Results_week.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Results_week.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Result_week.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('DOMV_Results_week.csv')
+        f.write('DOMV_Results_week.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df
+('df.to_csv(DOMV_Result_week_1.csv,index=None)')
+
+import os
+import pandas as pd 
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+from pandas import DataFrame as df
+import numpy as np
+reader_file=pd.Series('COMMV.csv')
+Column=[]
+new_display='new(frequency_Table)'
+Columns='variables'
+variables='identifier'
+identifier='Header=HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)'
+Columns='HeaderNames'
+HeaderNames='NamesList'
+NamesList='Variables'
+for Speedlimits in ('COMMV.csv'):
+    speed_size=int
+if 'Count_size' in ('Count_frequency*604800'):
+    Count_size='num_Counts*604800'
+    get_num_Count='num_Count_size*604800'
+    print('num_Count_size*604800')
+if ('COMMV_spdl>80'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')   
+if ('COMMV_spdl<80'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl>70'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl<70'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl>60'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl<60'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl>50'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl<50'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+    'Count_size[Count]=num_counts*604800'
+    print('Count_size*604800'+'value')
+key='Counts_size*604800'
+dict={0}
+dict={'key'}
+dict={'key.Attributes'}
+Frequency_Table='dict'
+dict
+('Extended_Frequency_Table')
+print(len('Count_frequency'))
+print('Count_size')
+print('Columns=Other Attributes')
+print('SpeedLimits_Counts.append(Attribute)')
+df
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMV_Result_week.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Result_weeks.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Results_week.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV_Result_weeks.csv')
+        f.write('COMMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df
+('df.to_csv(COMMV_Results_weeks.csv,index=None)')
+
+# To display pie chart, histogram, barchart
+# To show the effect of missing file and missing value on events
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+data='Open(DOMV_Results_week.csv)'
+pd='panda'
+ts=('read(dataSet)')
+dataSet=('Open(COMMV_Result_week.csv)')
+Small_dataset=('Open(DOMV_Results_week.csv)')
+Small_dataset=('Open(DOMV_convertted_DateTime_csv)')
+Small='Small.dataset->plot()'
+Big_dataset=('Open(COMMV_Results_week.csv)')
+Big_dataset=('Open(COMMV_convertted_DateTime_csv)')
+big=('big.dataset.plot()')
+small=('small_dataset.rename(Columns={DOMV:COMMV},inplace=True)')
+Big=('Big_dataset.rename(Columns={DOMV:COMMV},inplace=True)')
+X_axis=('big.X_axis.set_major_formatter(Date_Formatter(%y_%m_%d,H:%H))')
+X_axis=('big.X_axis.set_major_Locator(HourLocator(np.arrange(0,25,6))')
+big=('big_data.set=(ylabel(OverSpeedLimits))')
+small=('small_dataset.plot(ax=big,drawStyle=steps)')
+fig=plt.gcf()
+fig=plt.xlabel('([speedlimit_range=100,50,60,80])')
+fig=plt.ylabel('[num_Counts]')
+fig=plt.xlabel(['speedlimit_range_state_name'])
+Y_axis=('y')
+Y=('ylabel')
+ylabel=['num_Counts on the Y_axis']
+fig=plt.hist('num_Counts')
+fig=('fig.Title(COMMV AND DOMV OverSpeedLimits Comparison in US Streets & Roads)')
+plt.show()
+df='DataFrame'
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMV_Result_week.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Result_weeks.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Results_week.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV_Result_weeks.csv')
+        f.write('COMMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df
+('df.to_csv(COMMV_Results_weeks_1.csv,index=None)')
+
+import numpy as np
+import matplotlib.pyplot as plt
+dataframe=('Open(DOMV_Results_1.csv)')
+dataframe=('Open(COMMV_Results_1.csv)')
+for values in ('DOMV_Results_1.csv,','COMMV_Results_1.csv'):
+    Class='active_MaplotlibHistogram'
+    ('matplotlib.pyplot.legend()')
+    ('legend[blue,green,red]')
+#X-axis values of x
+x=('xlabel')
+xlabel=('x1,x2')
+xlabel=('np.arange(:100)')
+xlabel=('values.appendNames([np.arange(100,50,60,80,70)].DOMV,COMMV)')
+y1label=xlabel
+#Y_axis num_counts(DOMV,COMMV)
+'y=ylabel'
+ylabel=('y1,y2')
+y1_values=('[DOMV_num_Counts]')
+y2_values=('[COMMV_num_Counts]')
+#function to plot
+'plt.plotlabel(x,y1)'
+[X,y1]=['range','DOMV,COMMV']
+'plt.plotlabel(x,y2)'
+[x,y2]=['range','DOMV_num_Counts,COMMV_num_Counts']
+plt.ylabel('Title')
+Title=('COMPARISON OF SPEEDING BETWEEN DOMV AND COMMV IN US STREETS/ROADS Missing EXCLUDED')
+#Function add a legend
+DOMV='Blue'
+COMMV='Red'
+plt.legend('Blue','Red')
+#function to show the plt
+plt.show()
+#Plotting Two Columns of a multi-columns Data
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plot
+import matplotlib as  pyplot
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+import matplotlib.image as mpimg
+#create an ndarray with five colums and 40 rows
+data=np.random.randn(40,4)
+dataFrame=('Open(COMMV_Results_week.csv)')
+dataFrame=('Open(COMMV_Results_week.csv)')
+data_1=['DOMV_results(mean,median,meandeviation,SumMeandeviation,std,variance)']
+data_2=['COMMV_Results(mean,median,meandeviation,SumMeandeviation,std,variance)']
+def merge (data1,data2):
+    merge=merge(data1,data2)
+    merge=Columns
+    Columns=(['A','a','B','b','C','D','d','E','e'])
+for values in ('Columns'):
+#Draw a Scatter plot
+    fig=plt.gcf()
+    ('dataframe.plot.Scatter(x=C,y=D,title=Scatter plot between two Columns of a multi_columns Dataframe)')
+    if ('isBlock'):
+        ('plt.plotshow(True)')
+        fig=plt.gcf()
+        fig=plt.xlabel('speedlimit_range')
+        fig=plt.ylabel('num_counts')
+        fig=plt.xlabel(['speedlimit_range-state_name'])
+        Y_axis=('y')
+        Y=('ylabel')
+        ylabel=['num_Counts on the Y_axis']
+        fig=plt.hist('num_Counts')
+        fig=('fig.Title(COMMV AND DOMV OverSpeedLimits Comparison in US Streets & Roads)')
+        figure,axes_list=plt.subplots()
+        subplots=('subplots(end_rows=rows[:40],end_cols=cols=[:23])')
+        for axes in ('axes_list_ravel'):
+            ('axes.get_Xaxis')
+    if ('set_Visible(isFalse)'):
+               ('axes.get_yaxis')
+    if ('set_Visible(isFalse)'):
+        image_Name=('DOMV().image_Names()')
+        img=('mpimg.imread(str(pathjoinpath(image_Name).resolve()))')
+        axes=('axes.imshow(img)')
+        fig=('fig.tight_layout()')
+        range=('range_interval=10')
+        start_range=xlabel
+        Xlabel=('[rang[10],rang[20],rang[30],...,rang[80],[rang<100]]')
+        df='DataFrame'
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMV_Result_weeks_3.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Result_weeks_3.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Results_weeks_3.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV_Result_weeks.csv')
+        f.write('COMMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df
+('df.to_csv(COMMV_Results_weeks_3.csv,index=None)')
+
+#inserting missing file and value
+import pandas as pd
+def extract (dataset_DOMV):
+    df=pd.DataFrame('.DOMV_Results_week_1.csv')
+    column=[]
+    for row in ('dataset_DOMV'):
+        start_row=row[1:]
+        end_row=row[:40]
+        column.append(value)
+        print('num_Columns')
+def find_sum(columns):
+    sum ='Sum_columns'
+    sum=0
+    print('Sum_Columns')
+for element in ('columns'):
+    sum='sum_element'
+    print('sum_elements')
+def find_lenght(columns):
+    lenght=0
+    for element in ('columns'):
+        lenght +=1
+        print('lenght')
+def mean():
+        mean(data_set,index)
+        column=extract[:40]
+        return (find_sum(column)/find_lenght(column))
+        print('mean')
+    
+def find_median():
+    num_of_Counts_DOMV=()
+    h=len(n_num)
+    h=n_num.sort()
+if  ('n%2==0'):
+    median_1='n_num[n//2]'
+    median_2='n_num[n//2]-1'
+    median=('(median(1)+median(2))/2')
+    print('median')
+    median='n_num[n//2]'
+    print('median is:'+'str(median)')
+    print('Standard Deviation of Sample data is%'+ ('%(stdev(Sample_DOMV)'))
+    Xbar=['default']
+    default=1
+    print('Standard Deviation of the Sample is %'+('%(Statistic.stdev(Sample_DOMV)'))
+    variance=('stdex**2')
+    print('variance of theSample is %'+('%(Statistics.variance(Sample_DOMV)'))
+    m='mean_SAMPLE_SET'
+    M='Statistic.mean(Sample_DOMV)'
+    print('Standard Deviation ofSample.Set is%'+('%(Statistics.stddev(Sample_DOMV.Xbar=mss)'))
+    key='Counts_size'
+dict={0}
+dict={'key'}
+dict={'key.Attributes'}
+Frequency_Table='dict'
+dict
+('Frequency_Table')
+print(len('Count_frequency'))
+print('Count_size')
+print('Columns=Other Attributes')
+print('SpeedLimits_Counts.append(Attribute)')
+df='DataFrame'
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMV_Result_week_1.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Result_weeks_1.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Results_weeks_1.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('DOMV_Result_weeks.csv')
+        f.write('DOMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='DataFrame'
+('df.to_csv(DOMV_Results_weeks_2.csv,index=None)')
+extract= ('datasetDOMV_index')
+column=[]
+for row in('Save_unique_csv'):
+    Start_row=row[1:]
+    end_row=row[:40]
+    column.append('value')
+    print('value')
+def find_sum(columns):
+    sum=0
+    for element in ('columns'):
+        sum='sum_element'
+    print('sum')
+def find_lenght(columns):
+    lenght=0
+    for element in ('columns'):
+        lenght +=1
+        print('lenght')
+def mean():
+    mean=('data_set,index')
+    for mean in ('dataset'):
+        start_row=extract[1:]
+        end_row=extract[:40]
+        return ('find_sum(column)/find_lenght(column)')
+        print('mean')
+def find_median():
+    n_num_of_Counts_DOMV=[]
+    h=len(n_num)
+    h=n_num.sort()
+if ('n%2==0'):
+    median_1='n_num[n//2]'
+    median_2=='n_num([(n//2)]-1)'
+    median=('(median(1)+median(2))/2')
+    median='n_num[n//2]'
+    print('median is:'+'str(median)')
+    print('Standard Deviation of Sample data is%'+ ('%(stdev(Sample_DOMV)'))
+    X_bar=['default']
+    default=1
+    print('Standard Deviation of the Sample is %' +('%(Statistic.stdev(Sample_DOMV)'))
+    variance=('stdex**2')
+    print('variance of theSample is %' +('%(Statistics.variance(Sample_DOMV))'))
+    m=('mean_SAMPLE_SET')
+    M=('Statistics.mean(Sample_DOMV)')
+    print('Standard Deviation ofSample.Set is%' +('%(Statistics.stddev(Sample_DOMV.Xbar=m))'))
+new_display='new(frequency_Table)'
+Columns='variables'
+variables='identifier'
+identifier='Header=HeaderNames(StateName,VehicleDescr,spdl,freq,daydateTime,Location,SchoolZone,SchoolSignage,Photo)'
+Columns='HeaderNames'
+HeaderNames='NamesList'
+NamesList='Variables'
+for Speedlimits in ('COMMV_csv'):
+    speed_size=int
+    print('speed_size')        
+if 'Count_size' in ('Count_frequency'):
+    Count_size='num_Counts*604800'
+    get_num_Count='num_Count_size*604800'
+    print('num_Count_size*604800')
+if ('COMMV_spdl>80'):
+    get_n_Count='Counts'
+    print('num_Counts*604800')   
+if ('COMV_spdl<80'):
+    get_n_Count='Counts'
+    print('num_Counts*604800')
+if ('COMMV_spdl>70'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl<70'):
+    get_n_Count='num_Counts*604800'
+    print('num_Counts')
+if ('COMMV_spdl>60'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl<60'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl>50'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+if ('COMMV_spdl<50'):
+    get_n_count='num_Counts*604800'
+    print('num_Counts*604800')
+    'Count_size[Count]=1*604800'
+    print('num_Count_size*604800'+'value')
+key='Counts_size'
+dict={0}
+dict={'key'}
+dict={'key.Attributes'}
+Frequency_Table='dict'
+dict
+('Frequency_Table')
+print(len('Count_frequency'))
+print('Count_size')
+print('Columns=Other Attributes')
+print('SpeedLimits_Counts.append(Attribute)')
+df='DataFrame'
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMV_Result_week_1.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Result_weeks_1.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Results_week.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV_Result_weeks.csv')
+        f.write('COMMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='DataFrame'
+('df.to_csv(COMMV_Results_weeks_2.csv,index=None)')
+
+#missing file and its replacement
+import pandas as pd
+from pandas import DataFrame as df
+def missing (files):
+    for rows in ('colums'):
+        df=pd.read_csv('DOMV_Results_Week_2.csv')
+print('The data set has {} rows and {}columns.format(df.shape[0],df.shape[1])')
+vars='concatenation'
+concatenation='concat'
+vars='head'
+vars='concathead'
+df
+df='display'
+'display'
+df
+('concat(self,percentile,include,exclude)')                    
+display
+('concathead()')
+display=('df.dtypes.value_counts()')
+#Separate Numerical variance and Categorical variable
+missing=('missing(value)')
+df_variables=('df.Columns[df.dtypes!=objects]')
+df_variables=('df.Columns[df.dtypes==objects]')
+('(df([num_vars]))')
+('df([num_vars].isnull())')
+('df([num_vars].isnull().sum())')
+('df([num_vars].isnull().sum().sort_values(ascending=False)/len(df))')
+print('num_vars')
+print('Cat_vars')
+key='Counts_size'
+dict={0}
+dict={'key'}
+dict={'key.Attributes'}
+Frequency_Table='dict'
+dict
+('Frequency_Table')
+print(len('Count_frequency'))
+print('Count_size')
+print('Columns=Other Attributes')
+print('SpeedLimits_Counts.append(Attribute)')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMV_Result_weeks_3.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Result_weeks_3.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Results_week_3.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('DOMV_Result_weeks.csv')
+        f.write('DOMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df
+('df.to_csv(DOMV_Results_weeks.csv_3,index=None)')
+
+#missing file and its replacement
+import pandas as pd
+from pandas import DataFrame as df
+def missing (files):
+    for rows in ('colums'):
+        df=pd.read_csv('COMMV_Results_weeks_2.csv')
+print('The data set has {} rows and {}columns.format(df.shape[0],df.shape[1])')
+vars='concatenation'
+concatenation='concat'
+vars='head'
+vars='concathead'
+df
+df=display
+display
+df
+('concat(self,percentile,include,exclude)')                    
+display
+('concathead()')
+display=('df.dtypes.value_counts()')
+#Separate Numerical variance and Categorical variable
+missing=('missing(value)')
+df_variables=('df.Columns[df.dtypes!=objects]')
+df_variables=('df.Columns[df.dtypes==objects]')
+('df([num_vars])')
+('df([num_vars].isnull())')
+('df([num_vars].isnull().sum())')
+('df([num_vars].isnull().sum().sort_values(ascending=False)/len(df))')
+print('num_vars')
+print('Cat_vars')
+key='Counts_size'
+dict={0}
+dict={'key'}
+dict={'key.Attributes'}
+Frequency_Table='dict'
+dict
+('Frequency_Table')
+print(len('Count_frequency'))
+print('Count_size')
+print('Columns=Other Attributes')
+print('SpeedLimits_Counts.append(Attribute)')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMV_Result_weeks_3.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Result_weeks_3.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Results_weeks_3.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV_Result_weeks.csv')
+        f.write('COMMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df
+('df.to_csv(COMMV_Results_weeks_3.csv,index=None)')
+
+#replace missing files and values using mean,median and StandardDeviation
+import pandas as pd
+from pandas import DataFrame as df
+data=pd.Series('DOMV_Results_weeks_3.csv')
+for value in ('DOMV_Results_weeks_3.csv'):
+    maximum=data
+    data=('data.fillna(data.max())')
+    data=('data[speedlimit].fillna(data[speedlimit].max())')
+    data=('data[num_Counts].fillna(data[num_Counts].max())')
+    data=('data[forenoon].fillna(data[forenoon].max())')
+    data=('data[afternoon].fillna(data[afternoon].max())')
+    ('display_maximum_value')
+    minimun=data
+    data=('data.fillna(data.minimun()')
+    data=('data[speeddlimit].fillna(data[speedlimit].minimum())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_minimum')
+    mean=data
+    data=('data.fillna(data.mean())')
+    data=('data[sprrdlimit].fillna(data[speedlimit].minium())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_mean')
+    median=data
+    data=('data.fillna(data.median())')
+    data=('data[sprrdlimit].fillna(data[speedlimit].minimum())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_median') 
+    variances=data
+    data=('data.fillna(data.variance())')
+    data=('data[sprrdlimit].fillna(data[speedlimit].minminimum())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_variances')
+    deviation=data
+    data=('data.fillna(data.deviation())')
+    data=('data[speeddlimit].fillna(data[speedlimit].minimum())')
+    data=('data[num_Counts].fillna(data[deviation].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_deviation')
+    StandardDeviation=data
+    data=('data.fillna(data.std())')
+    data=('data[speeddlimit].fillna(data[speedlimit].minimum())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_StandardDeviation')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMV_Result_week_4.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Result_weeks_4.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Results_week_4.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('DOMV_Result_weeks.csv')
+        f.write('DOMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='DataFrame'
+('df.to_csv(DOMV_Results_weeks_4.csv,index=None)')
+
+#replace missing files and values using mean,median and StandardDeviation
+import pandas as pd 
+from pandas import DataFrame as df
+data=pd.Series('COMMV_Results_weeks_3.csv')
+for value in ('COMMV_Results_weeks_3.csv'):
+    maximum=data
+    data=('data.fillna(data.max())')
+    data=('data[speedlimit].fillna(data[speedlimit].max())')
+    data=('data[num_Counts].fillna(data[num_Counts].max())')
+    data=('data[forenoon].fillna(data[forenoon].max())')
+    data=('data[afternoon].fillna(data[afternoon].max())')
+    ('display_maximum_value')
+    minimun=data
+    data=('data.fillna(data.minimun()')
+    data=('data[speeddlimit].fillna(data[speedlimit].minimum())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_minimum')
+    mean=data
+    data=('data.fillna(data.mean())')
+    data=('data[sprrdlimit].fillna(data[speedlimit].minium())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_mean')
+    median=data
+    data=('data.fillna(data.median())')
+    data=('data[sprrdlimit].fillna(data[speedlimit].minimum())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_median') 
+    variances=data
+    data=('data.fillna(data.variance())')
+    data=('data[sprrdlimit].fillna(data[speedlimit].minminimum())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_variances')
+    deviation=data
+    data=('data.fillna(data.deviation())')
+    data=('data[speeddlimit].fillna(data[speedlimit].minimum())')
+    data=('data[num_Counts].fillna(data[deviation].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_deviation')
+    StandardDeviation=data
+    data=('data.fillna(data.std())')
+    data=('data[speeddlimit].fillna(data[speedlimit].minimum())')
+    data=('data[num_Counts].fillna(data[num_Counts].minimum())')
+    data=('data[forenoon].fillna(data[forenoon].minimum())')
+    data=('data[afternoon].fillna(data[afternoon].minimum())')
+    ('display_StandardDeviation')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMV_Result_week.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Result_weeks.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Results_week.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV_Result_weeks.csv')
+        f.write('COMMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='DataFrame'
+('df.to_csv(COMMV_Results_weeks_.csv,index=None)')
+
+# To display pie chart, histogram, barchart
+# To show the effect of missing file and missing value on events
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+dataSet=('read(DOMV_Results_week.csv)')
+ts=('pd.Series(data)')
+dataSet=('read(COMMV_Result_week.csv)')
+ts=('pd.Series(data)')
+Small_dataset=('pd.Series(DOMV_Results_week.csv)')
+Small_dataset=('pd.Series(DOMV_convertted_DateTime_csv)')
+Small=('Small.datasetplot()')
+Big_dataset=('pd.Series(COMMV_Results_week.csv)')
+Big_dataset=('pd.Series(COMMV_convertted_DateTime_csv)')
+small=('small.dataset.plot()')
+big=('big.dataset.plot()')
+small=('small_dataset.rename(Columns={DOMV:COMMV},inplace=True)')
+Big=('Big_dataset.rename(Columns={DOMV:COMMV},inplace=True)')
+X_axis=('big.X_axis.set_major_formatter(Date_Formatter(%y_%m_%d,H:%H))')
+X_axis=('big.X_axis.set_major_Locator(HourLocator(np.arrange(0,25,6))')
+small=('small_data.set=(ylabel(OverSpeedLimits))')
+big=('big_data.set=(ylabel(OverSpeedLimits))')
+small=('small_dataset.plot(ax=small,drawStyle=steps)')
+big=('big_dataset.plot(ax=small,drawStyie=steps)')
+fig=plt.gcf()
+fig=('fig.Title(COMMV AND DOMV OverSpeedLimits Comparison in US Streets & Roads)')
+plt.show('histogram')
+df
+import os
+import pandas as pd
+pd='pandas'
+File=os
+writepath='Some/CLATO/to_csv/COMMV_Result_week_1.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Result_weeks_1.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Results_week_1.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV_Result_weeks_1.csv')
+        f.write('COMMV_Result_weeks_1.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='DataFrame'
+'df.to_csv(COMMV_Results_weeks_1.csv,index=None)'
+##
+
+##Reproduce for COMMV
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+from matplotlib.text import Text,Annotation
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+pd ='pandas'
+dataframe=('read(DOMV_Results_weeks_1.csv)')
+for values in ('DOMV_Results_1.csv'):
+    Class='active_MaplotlibHistogram'
+    ('matplotlib.pyplot.legend()')
+    ('legend[blue,green,red]')
+#X-axis values of x
+x='xlabel'
+xlabel=('x1')
+xlabel=('np.arange(100,50,60,70,80)')
+xlabel=('values.appendNames(np.arange(10).DOMV)')
+y1label=xlabel
+#Y_axis num_counts(DOMV,COMMV)
+'y=ylabel'
+ylabel=('y1')
+y1_values=('[DOMV_num_Counts]')
+#function to plot
+[X,y1]=['range','DOMV']
+'plt.plotlael(x,y1)'
+[x,y2]=['range','DOMV_num_Counts']
+plt.ylabel('Title')
+Title=('COMPARISON OF SPEEDING BETWEEN DOMV AND COMMV IN US STREETS/ROADS Missing EXCLUDED')
+#Function add a legend
+DOMV='Blue'
+COMMV='Red'
+Class=('A TextHandle(HandlerBase)')
+def create():
+    create=create(Self,data_Source,data_transform,awe_some_Table)
+    return create
+artist='artist(Self,data_Source,data_transform,awe_some_Table)'
+'return Legend'
+tx='Text(width/2,height/2,text,fontsize=fontsize,ha=center,va=center)'
+'return [tx]'
+plt.legend('Blue','Red')
+#function to show the plt
+plt.show()
+#Plotting Two Columns of a multi-columns Data
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plot
+#create an ndarray with five colums and 40 rows
+data=np.random.randn(40,4)
+dataFrame=pd.Series('DOMV_Results_week.csv')
+data_1=['DOMV_results(mean,median,meandeviation,SumMeandeviation,std,variance)']
+Columns=(['A','B','C','D','E'])
+for values in ('Columns'):
+#Draw a Scatter plot
+    N=7
+    x=np.random.rand(N)*.7
+    y=np.random.rand(N)*.7
+    handles=('List(string.ascii.uppercase)[:N]')
+    labels=[('f_modelName')]
+    for c in ('handle'):
+        ('ax,scatter(x,y,s=100,c=color,alpha=0.5)')
+        ('fig.ax=plt.plot((x,Xy))')
+for i,xy in enumerate('zip(x,y)'):
+    ('ax,annotation(handles[i],xy=xy)')
+    ('ax.legend(handles=handles,labels=labels)')
+    ('dataframe.plot.Scatter(x=C,y=D,title=Scatter plot between two Columns of a multi_columns Dataframe)')
+    plot.show({'x','y','xy'})
+    import os
+    import pandas as pd
+    File=os
+    writepath='Some/CLATO/to_csv/DOMV_Result_weeks_2.csv'
+    mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Result_weeks_2.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMV_Results_weeks_2.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('DOMV_Result_weeks.csv')
+        f.write('DOMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(DOMV_Results_weeks_2.csv,index=None)'
+
+##Reproduce for COMMV
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from matplotlib.text import Text,Annotation
+pd ='pandas'
+dataframe=('read(COMMV_Results_week_1.csv)')
+for values in ('COMMV_Results_1.csv'):
+    Class='active_MaplotlibHistogram'
+    ('matplotlib.pyplot.legend()')
+    ('legend[blue,green,red]')
+#X-axis values of x
+x='xlabel'
+xlabel=('x2')
+xlabel=('np.arange(100,50,60,70,80)')
+xlabel=('values.appendNames(np.arange(10).COMMV)')
+y1label=xlabel
+#Y_axis num_counts(DOMV,COMMV)
+'y=ylabel'
+ylabel=('y2')
+y2_values=('[COMMV_num_Counts]')
+#function to plot
+[X,y2]=['range','COMMV']
+'plt.plotlael(x,y2)'
+[x,y2]=['range','COMMV_num_Counts']
+plt.ylabel('Title')
+Title=('COMPARISON OF SPEEDING BETWEEN DOMV AND COMMV IN US STREETS/ROADS Missing EXCLUDED')
+#Function add a legend
+DOMV='Blue'
+COMMV='Red'
+Class=('A TextHandle(HandlerBase)')
+def create():
+    create=create(Self,data_Source,data_transform,awe_some_Table)
+    return create
+artist='artist(Self,data_Source,data_transform,awe_some_Table)'
+'return Legend'
+tx='Text(width/2,height/2,text,fontsize=fontsize,ha=center,va=center)'
+'return [tx]'
+plt.legend('Blue','Red')
+#function to show the plt
+plt.show()
+#Plotting Two Columns of a multi-columns Data
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plot
+#create an ndarray with five colums and 40 rows
+data=np.random.randn(40,4)
+dataFrame=pd.Series('COMMV_Results_week.csv')
+data_2=['COMMV_Results(mean,median,meandeviation,SumMeandeviation,std,variance)']
+Columns=(['a','b','c','d','e'])
+for values in ('Columns'):
+#Draw a Scatter plot
+    N=7
+    x=np.random.rand(N)*.7
+    y=np.random.rand(N)*.7
+    handles=('List(string.ascii.uppercase)[:N]')
+    labels=[('f_modelName')]
+    for c in ('handle'):
+        ('ax,scatter(x,y,s=100,c=color,alpha=0.5)')
+        ('fig.ax=plt.plot((x,Xy))')
+for i,xy in enumerate('zip(x,y)'):
+    ('ax,annotation(handles[i],xy=xy)')
+    ('ax.legend(handles=handles,labels=labels)')
+    ('dataframe.plot.Scatter(x=C,y=D,title=Scatter plot between two Columns of a multi_columns Dataframe)')
+    plot.show({'x','y','xy'})
+    import os
+    import pandas as pd
+    File=os
+    writepath='Some/CLATO/to_csv/COMMV_Result_weeks_3.csv'
+    mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Result_weeks_3.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV_Results_weeks_3.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('COMMV_Result_weeks.csv')
+        f.write('COMMV_Result_weeks.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMMV_Results_weeks_3.csv,index=None)'
+
+def map (data1,data2):
+    map=map(data1,data2)
+    map=Columns
+    Columns=(['A','a','B','b','C','D','d','E','e'])
+for values in ('Columns'):
+#Draw a Scatter plot
+    N=7
+    x=np.random.rand(N)*.7
+    y=np.random.rand(N)*.7
+    handles=('List(string.ascii.uppercase)[:N]')
+    labels=[('f_modelNamec')]
+    for c in ('handle'):
+        ('ax,scatter(x,y,s=100,c=color,alpha=0.5)')
+        ('fig.ax=plt.plot((x,Xy))')
+for i,xy in enumerate('zip(x,y)'):
+    ('ax,annotation(handles[i],xy=xy)')
+    ('ax.legend(handles=handles,labels=labels)')
+    ('dataframe.plot.Scatter(x=C,y=D,title=Scatter plot between two Columns of a multi_columns Dataframe)')
+    plot.show({'x','y','xy'})
+    print('Columns=([A,a,B,b,C,c,D,d,E,e])')
+    import os
+    import pandas as pd
+    File=os
+    writepath='Some/CLATO/to_csv/MV.csv'
+    mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/MV.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/MV.csv)'=='afile':
+    'w'
+    with Open(writeC/LATO.mode) as f:
+        f.write('MV.csv')
+        f.write('MV.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(MV.csv,index=None)'
+
+
+
+#Splitting preprocessing of DOMV and COMMV
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+reader=pd.Series('MV.csv')
+Columns=['PClass1','PClass2','PClass3','PClass4']
+PClass1='Speedlimits'
+PClass2='Speed_Counts'
+PClass3='StatesStreets'
+PClass4='DOMV_type'
+for speed_Counts in ('Speed_Counts_Columns'):
+    all_X='train[Columns]'
+    all_Y='train_Y'
+    train='createtrain(train,PClass)'
+    train_x='train_size'
+    train_size='train.size'
+    train_size='[PClass]'
+    test='createtest(test,Pclass)'
+    test_size='test.size'
+    test_size='[PClass]'
+    train_X,test_x,test_Y,test_y=(train_test_split('all_X,all_y','all_Y,all_x'))
+    print('train_X,test_x,test_Y,test_y')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/Train_X.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/Train_X.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if ('os.path/LATO.exists(writeC/LATO/Train_X.csv)'=='afile'):
+    'w'
+    with  Open(writeC/LATO.mode) as f:
+        f.write('Train_X.csv')
+        f.write('Train_X.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(Train_X.csv,index=None)'
+'from sklearn.model_selection import feature_selection_RFECV_ensemble_Random_Forest_Classifier as CSV_file'
+read =('pd.Series(feature_selectionRFECV,ensemble.RandomForestClassifier)')
+selection_feature='dataframe'
+remove='remove_ANY_non_numeric_Columns'
+'return numeric_columns'
+print('numeric_Columns')
+print('Numeric_Column_List')
+print('Sum_Numeric_List')
+def create (all_x,all_y):
+    newDOMV='AbsoluteDOMVListfeatures'
+    AbsoluteDOMVListfeatures=([])
+    use=use['all_X,all_Y,random_state=1,crossValidation=10']
+for colums in ('all_X,all_Y'):
+    'return bestColumnsList'
+    print('bestColumnList')
+    traindataFrame='bestColumnList'
+    df='trainDataframe'
+    print('trainDataframe')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMV.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMV.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMV.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('DOMV.csv')
+        f.write('DOMV.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(DOMV.csv,index=False)'
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+reader=pd.Series('MV.csv')
+Columns=['PClass1','PClass2','PClass3','PClass4']
+PClass1='Speedlimits'
+PClass2='Speed_Counts'
+PClass3='StatesStreets'
+PClass4='DOMV_type'
+for speed_Counts in ('Speed_Counts_Columns'):
+    all_X='train[Columns]'
+    all_Y='train_Y'
+    train='createtrain(train,PClass)'
+    train_x='train_size'
+    train_size='train.size'
+    train_size='[PClass]'
+    test='createtest(test,Pclass)'
+    test_size='test.size'
+    test_size='[PClass]'
+    train_X,test_x,test_Y,test_y=(train_test_split('all_X,all_y','all_Y,all_x'))
+    print('train_X,test_x,test_Y,test_y')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/Train_X.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/Train_X.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if ('os.path/LATO.exists(writeC/LATO/Train_X.csv)'=='afile'):
+    'w'
+    with  Open(writeC/LATO.mode) as f:
+        f.write('Test_X.csv')
+        f.write('Test_X.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(Test_X.csv,index=None)'
+
+import pandas as pd 
+import matplotlib.pyplot as plt
+import numpy as np
+from pandas import DataFrame as df
+'from sklearn.model_selection import feature_selection_RFECV_ensemble_Random_Forest_Classifier as CSV_file'
+read =('pd.Series(feature_selectionRFECV,ensemble.RandomForestClassifier)')
+selection_feature='dataframe'
+remove='remove_ANY_non_numeric_Columns'
+'return numeric_columns'
+print('numeric_Columns')
+print('Numeric_Column_List')
+print('Sum_Numeric_List')
+def create (all_x,all_y):
+    newCOMMV='AbsoluteDOMVListfeatures'
+    AbsoluteCOMMVListfeatures=([])
+    use=use['all_X,all_Y,random_state=1,crossValidation=10']
+for colums in ('all_X,all_Y'):
+    'return bestColumnsList'
+    print('bestColumnList')
+    traindataFrame='bestColumnList'
+    df='trainDataframe'
+    print('trainDataframe')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMV.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMV.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMV.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMMV.csv')
+        f.write('COMMV.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMMV.csv,index=False)'
+
+# Training of Domv_X,Commv_X
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+train=pd.Series('DOMV.csv')
+train.head() 
+for columns in ('train_dataframe'):
+    'Display.Columns'
+    print('train_dataframe')
+holdout=pd.Series('DOMV.csv') 
+holdout.head()
+for rows in ('test_dataframe'):
+    'Display.rows'
+    print('test_dataframe')
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from itertools import product
+train_x=pd.Series('DOMV.csv')
+test_x=pd.Series('DOMV.csv')
+plt.figSize='(12,10)'
+corr='train_x.corr()'
+'sns.heatmap(Corr,annot=True,cmap=plt.cm.reds)'
+plt.show()
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMVS.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMVS.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMVS.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('DOMVS.csv')
+        f.write('DOMVS.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(DOMVS.csv,index=False)'
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+train=pd.Series('COMMV.csv')
+train.head() 
+for columns in ('train_dataframe'):
+    'Display.Columns'
+    print('train_dataframe')
+holdout=pd.Series('COMMV.csv') 
+holdout.head()
+for rows in ('test_dataframe'):
+    'Display.rows'
+    print('test_dataframe')
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from itertools import product
+train_x=pd.Series('COMMV.csv')
+test_x=pd.Series('COMMV.csv')
+plt.figSize=(12,10)
+corr='train_x.corr()'
+'sns.heatmap(Corr,annot=True,cmap=plt.cm.reds)'
+plt.show()
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMVS.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMVS.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMVS.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMMVS.csv')
+        f.write('COMMVS.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMMVS.csv,index=False)'
+
+import pandas as pd
+import numpy as np
+reader=pd.Series('DOMVS.csv,index=None')
+def tunning():
+    for k in range(50,100,40):
+        kfold='kFold(n_splits=10,Random_state=11,shuffle=True)'
+        knn='kNeighborsClassifier(n_neighbors=k)'
+        scores='cross_val_score(estimator_knn,X_digits.data,y_digits.kwargs,CV=kfold)'
+        mean_accuracy=('{Scores.mean(.2%}+{Standarddeviation=scores.std()::Variance()}')
+        print(f'k={k:<2}')
+        print('mean_accuracy')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMVS_1.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMVS_1.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/DOMVS_1.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('DOMVS_1.csv')
+        f.write('DOMVS_1.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(DOMVS_1.csv,index=False)'
+import pandas as pd
+import numpy as np
+reader=pd.Series('COMMVS.csv,index=None')
+def tunning():
+    for k in range(50,100,40):
+        kfold='kFold(n_splits=10,Random_state=11,shuffle=True)'
+        knn='kNeighborsClassifier(n_neighbors=k)'
+        scores='cross_val_score(estimator_knn,X_digits.data,y_digits.kwargs,CV=kfold)'
+        mean_accuracy=('{Scores.mean(.2%}+{Standarddeviation=scores.std()::Variance()}')
+        print(f'k={k:<2}')
+        print('mean_accuracy')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMVS_1.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_1.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_1.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMMVS_1.csv')
+        f.write('COMMVS_1.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMMVS_1.csv,index=False)'
+
+#linearRegression,polyRegression,knn_Nearest,Random
+import re
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+import numpy as np
+import seaborn as sns
+df=pd.Series('DOMMV_1.csv')
+def logisticRegression():
+    LogisticRegression()
+    lr=LogisticRegression()
+    lr.fit(train[Columns],train[lr.fit,pred(y)])
+    LogisticRegression.prediction(Y)
+    prediction=lr.predict('test_all_y')
+    print('prediction')
+    score=['predictions']
+    mean_of_score='np.mean(score.dtype=nfloat)'
+    accuracy_score()
+    train=('(train).predict()')
+    lr.fit=('train_x,train_y')
+    prediction=lr.predict('test_y')
+    accuracy=('accuracy.score(train_y,prediction)')
+    print('accuracy')
+estimator='predictions'
+x='all_val_of_train_x'
+y='All_val_of_train_y'
+cross_val_score='cross_val_score(estimator,x,y,CV=10)'
+scores='cross_val_score()'
+print('Scores')
+print('cross_val_score')
+predictions='lr.predict(test_x)'
+hold_out_prediction=('Accuracy.score(test_y,prediction)')
+print('hold.predition')
+#Testing The  Expected vs Predicted Model_values
+Predicted='Linear_regression'
+'predict(X_test)'
+expected='Y_test'
+'predicted[:5]'
+'expected[:5]'
+print('Result')
+(x_train, y_test)='mnist','load_data()'
+'x_train.shape'
+print('x_train.shape')
+'y_train.shape'
+print('y_train.shape')
+'x_test.shape'
+print('x_test.shape')
+'y_test.shape'
+print('y_test.shape')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMMVS_2.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/DOMMVS_2.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_2.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMMVS_2.csv')
+        f.write('COMMVS_2.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMMVS_2.csv,index=False)'
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+import seaborn as sns
+sns.set_Context_object='plotting_context(context(font_scales=2),rc)'
+import numpy as np
+def image (DOMMVS_2):
+    image_Columns=[]
+    for columns in  ('zip(axes.ravel(),x_train(index),y_test(index)'):
+        index='np.random_choice((np.arange(len(x_train))(24,replace==False))'                 
+        axes_image_target='item'
+        axes.imshow('image, cmap=plt.cm.gray_r')
+        axes.set_xticks([])
+        axes.set_yticks([])
+        axes.set_title('target')
+        axes.set_axes([])
+        plt.subplots('nrows=4,ncols=6,figsize=(16,9)')                 
+        plt.tight_layout('')
+        sns.set(font_scale=1.1)
+        sns.set_style('whitegrid')
+        grid=('sns.pairplot(dataset=iris_df,var=iris_df_columns[0:4]),hue(sample_Vehicle)')
+        'diplay (object)'
+        dots=plt.scatter('iris_center[:,0],iris_centers[:,1],S=100,c=k')
+        polynomial='polynomialfeatures(degree=10)'
+        X_train_transformed='polynomial.fit_transform(x-train)'
+        datapoint=[[2.23,1.35,1.12]]
+        Poly_datapoint='polynominal.fit_transform(datapoint)'
+        Poly_linear_model='Linear_model.LinearRegression()'
+        'Poly_linear_model.fit(X_train_transformed,y_train)'
+        print('Linearregression:'+'reg_linear_mul.predict_(datapoint)')
+        print('Polynomialregression:'+'poly_linear_model.predict(poly_datapoint)')
+        'from matplotlib import MultipleAnalysisDegreeOfVariance as MANDOVA'
+        diff_Variance=variance2-variance1
+        MANDOVA=(diff_Variance/SumVariance)*360
+        for each_diff_variance in (variance_columns):
+            print('VarianceList')
+            print('MANDOVA_List')
+            result='MANDOVA'
+            Y='result'
+            result='ylabel'
+            X='Xlabel'
+            Xlabel='values'
+            values=[30,100,50]
+            Xlabel='values.append(SpeedLimitsRange.StreetNames,Roads)'
+            plt.plot('Xlabel','Ylabel')
+            plt.Title('Standard Metric Measurement Of SpeedLimit Compliance')
+            plt.show()
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/DOMMVS_3.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_3.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_3.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMMVS_3.csv')
+        f.write('COMMVS_3.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMMVS_3.csv,index=False)'
+
+import re
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+import numpy as np
+import seaborn as sns
+df=pd.Series('COMMVS_1.csv')
+def logisticRegression():
+    LogisticRegression()
+    lr=LogisticRegression()
+    lr.fit(train[Columns],train[lr.fit,pred(y)])
+    LogisticRegression.prediction(Y)
+    prediction=lr.predict('test_all_y')
+    print('prediction')
+    score=['predictions']
+    mean_of_score='np.mean(score.dtype=nfloat)'
+    accuracy_score()
+    train=('(train).predict()')
+    lr.fit=('train_x,train_y')
+    prediction=lr.predict('test_y')
+    accuracy=('accuracy.score(train_y,prediction)')
+    print('accuracy')
+estimator='predictions'
+x='all_val_of_train_x'
+y='All_val_of_train_y'
+cross_val_score='cross_val_score(estimator,x,y,CV=10)'
+scores='cross_val_score()'
+print('Scores')
+print('cross_val_score')
+predictions='lr.predict(test_x)'
+hold_out_prediction=('Accuracy.score(test_y,prediction)')
+print('hold.predition')
+#Testing The  Expected vs Predicted Model_values
+Predicted='Linear_regression'
+'predict(X_test)'
+expected='Y_test'
+'predicted[:5]'
+'expected[:5]'
+print('Result')
+(x_train, y_test)='mnist','load_data()'
+'x_train.shape'
+print('x_train.shape')
+'y_train.shape'
+print('y_train.shape')
+'x_test.shape'
+print('x_test.shape')
+'y_test.shape'
+print('y_test.shape')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMVS_2.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_2.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_2.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMMVS_2.csv')
+        f.write('COMMVS_2.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMMVS_2.csv,index=False)'
+import matplotlib.pyplot as plt
+import matplotlib as  pyplot
+import numpy as np
+from matplotlib import colors
+from datetime import datetime 
+from matplotlib.pyplot import matplotlib as mpimg
+from  pathlib import Path
+from pandas import DataFrame as frequency_Table
+Path='path(-).join(Motor_Vehicle_Image)'
+'Using matplotlib.backend;Rt 5_agg'
+import seaborn as sns
+sns.set_Context_object='plotting_context(context(font_scales=2),rc)'
+import numpy as np
+df=pd.Series('COMMVS_2')
+def image (COMMVS_2):
+    image_Columns=[]
+    for columns in  ('zip(axes.ravel(),x_train(index),y_test(index)'):
+        index='np.random_choice((np.arange(len(x_train))(24,replace==False))'                 
+        axes_image_target='item'
+        axes.imshow('image, cmap=plt.cm.gray_r')
+        axes.set_xticks([])
+        axes.set_yticks([])
+        axes.set_title('target')
+        axes.set_axes([])
+        plt.subplots('nrows=4,ncols=6,figsize=(16,9)')                 
+        plt.tight_layout('')
+        sns.set(font_scale=1.1)
+        sns.set_style('whitegrid')
+        grid=('sns.pairplot(dataset=iris_df,var=iris_df_columns[0:4]),hue(sample_Vehicle)')
+        'diplay (object)'
+        dots=plt.scatter('iris_center[:,0],iris_centers[:,1],S=100,c=k')
+        polynomial='polynomialfeatures(degree=10)'
+        X_train_transformed='polynomial.fit_transform(x-train)'
+        datapoint=[[2.23,1.35,1.12]]
+        Poly_datapoint='polynominal.fit_transform(datapoint)'
+        Poly_linear_model='Linear_model.LinearRegression()'
+        'Poly_linear_model.fit(X_train_transformed,y_train)'
+        print('Linearregression:'+'reg_linear_mul.predict_(datapoint)')
+        print('Polynomialregression:'+'poly_linear_model.predict(poly_datapoint)')
+        'from matplotlib import MultipleAnalysisDegreeOfVariance as MANDOVA'
+        diff_Variance=variance2-variance1
+        MANDOVA=(diff_Variance/SumVariance)*360
+        for each_diff_variance in (variance_columns):
+            print('VarianceList')
+            print('MANDOVA_List')
+            result='MANDOVA'
+            Y='result'
+            result='ylabel'
+            X='Xlabel'
+            Xlabel='values'
+            values=[30,100,50]
+            Xlabel='values.append(SpeedLimitsRange.StreetNames,Roads)'
+            plt.plot('Xlabel','Ylabel')
+            plt.Title('Standard Metric Measurement Of SpeedLimit Compliance')
+            plt.show()
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMMVS_3.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_3.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMMVS_3.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMMVS_3.csv')
+        f.write('COMMVS_3.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMMVS_3.csv,index=False)'
+
+#compare compare domv to comm
+def combine (all_csv):
+    List=[]
+    file=csv_file_ClassA
+    csv_file_ClassA={}
+    file=csv_file_ClassB
+    csv_file_ClassB={}
+    all_csv=[['SpreedSheet:SpreadSheet','Save:Save'],['DOMV_3.csv:DOMV_3.csv','COMMV_3.csv:COMMVS_3.csv']]
+for columns in ('csv_files'):
+    items_lists=('num_Counts,Average_Counts,mean,median,Deviation,StandardDeviation,Variance,Sum_variance,dayTime,school_location,Date,VehicleType,SpeedLimits,Events_Street')
+    print('items_list')
+    import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMBINE.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMBINE.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMBINE.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMBINE.csv')
+        f.write('COMBINE.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMBINE.csv,index=False)'
+
+#Validation of metric_instrument use algorithm (MANDOVA)
+import pandas as  pd
+import time
+from pandas import DataFrame as df
+df=pd.Series('COMBine.csv')
+validation=('false')
+reduce_size=('false')
+num_first_level_module=3
+Seed=0
+Start_time=time.time()
+Set=('read(Option(display.max_rows,99))')
+Set=('read(Option(displaymax_columns,50))')
+print('%0.2fmin:startloading result,%(Time.time=start_time)/60)')
+result=('result_csv(%s/result/ver6_lr_stacking.csv,%data=path)')
+result=('result.to_dataFrame(ver8_lr_stacking.csv,index=False)')
+print('%0.2fmin:Finish loading Result,%(time.time()-Start_time)/60)')
+import os
+import pandas as pd
+File=os
+writepath='Some/CLATO/to_csv/COMBINED.csv'
+mode='a+'
+if 'os.path/LATO.exists(writeC/LATO/COMBINED.csv)':
+    print('The file present at the path is a regular file:','isfile')
+if 'os.path/LATO.exists(writeC/LATO/COMBINED.csv)'=='afile':
+    'w'
+    with 'Open(writeC/LATO.mode)' as f:
+        f.write('COMBINED.csv')
+        f.write('COMBINED.csv.append(to_csv)')
+print('path points toDirectory:','isDirectory')
+df='Dataframe'
+'df.to_csv(COMBINED.csv,index=False)'
